@@ -359,11 +359,15 @@ The project documentation is available below:
 
 ---
 
-# 💻 Power BI Dashboard
+## 💻 Power BI Dashboard
+
+The complete interactive Power BI dashboard is available below.
 
 📥 **Download the Power BI Dashboard**
 
-[Global Capital Flows & Economic Development Analytics Dashboard.pbix](./PowerBI/Global%20Capital%20Flows%20%26%20Economic%20Development%20Analytics%20Dashboard.pbix)
+[**Global Capital Flows & Economic Development Analytics Dashboard.pbix**](./Global%20Capital%20Flows%20%26%20Economic%20Development%20Analytics%20Dashboard.pbix)
+
+> Open the file using **Microsoft Power BI Desktop** to explore the complete interactive dashboard.
 
 ---
 
